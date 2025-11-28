@@ -22,9 +22,9 @@ Computer science graduate of Mapúa University and aspiring data analyst current
 
 | Project | Role | Description | Skills | Link |
 | - | - | - | - | - |
-| ***Trello-esque*** **Web Application Project for SD Solutions Project Management Team <br>(OJT Capstone Project)** | Full-stack Developer | Developed a website for creating and assigning tasks, recording work hours, and managing projects using a Bootstrap framework and PHP/SQL database management backend | - HTML/CSS (Bootstrap)<br>- PHP/SQL | |
+| ***Trello-esque*** **Web Application Project for SD Solutions Project Management Team <br>(OJT Capstone Project)** | Full-stack Developer | Developed a website for creating and assigning tasks, recording work hours, and managing projects using a Bootstrap framework and PHP/SQL database management backend | - HTML/CSS (Bootstrap)<br>- PHP/SQL | [Repository](https://github.com/degenerasian/SDSTaskSite) |
 | **Project Management / QA Intern – SD Solutions IT Outsourcing Inc.** | Intern | Conducted QA tests for bXTRA, an online delivery app developed by SDS on both web and mobile platforms. Also led daily standup meetings between Project Management and bXTRA DevOps teams. | - Manual and automated software testing | |
-| **Barangay 860 (Pandacan) Government Documents Requisition** | Full-stack Developer |	Developed a (now defunct) website for automating the request and approval of government documents for Barangay 860 Pandacan  | - HTML/CSS (Bootstrap)<br>- PHP/SQL | |
+| **Barangay 860 (Pandacan) Government Documents Requisition** | Full-stack Developer |	Developed a (now defunct) website for automating the request and approval of government documents for Barangay 860 Pandacan  | - HTML/CSS (Bootstrap)<br>- PHP/SQL | [Repository](https://github.com/degenerasian/barangay860) |
 
 ***
   
