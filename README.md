@@ -13,7 +13,7 @@ Computer science graduate of Mapúa University and aspiring data analyst current
 | **11/28/2025**\* | | Introduction to Tableau - SimpliLearn |  |
 | **11/24/2025**\* | | Data Analytics Essentials - Cisco Networking Academy |  |
 | **11/24/2025**\* | | JavaScript Essentials 1 - Cisco Networking Academy |  |
-| **4/5/2024** | **4/5/2024** | TOEIC Speaking and Writing - Level B2 (Upper Intermediate) | [Link](https://github.com/degenerasian/portfolio/blob/main/Documents/TOEIC%20Score%20-%20Ty%2C%20Cedric.pdf) |
+| **4/5/2024** | **4/5/2024** | TOEIC Speaking and Writing - Level B2 (Upper Intermediate) | [Certificate](https://github.com/degenerasian/portfolio/blob/main/Documents/TOEIC%20Score%20-%20Ty%2C%20Cedric.pdf) |
 
 <sub>\* In Progress </sub>
 
